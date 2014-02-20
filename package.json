@@ -1,0 +1,11 @@
+{
+  "name": "esundahl-bounce-out",
+  "description": "bounce out animation",
+  "version": "0.0.1",
+  "keywords": [],
+  "styles": [
+    "bounce-out.css"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
